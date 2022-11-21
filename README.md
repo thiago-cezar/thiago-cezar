@@ -3,7 +3,7 @@
 - 🌱 Estudando python 
 - 😄 Pronomes: ele/dele
 
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/thiago-cezar-caetano/">
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=thiago-cezar&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-cezar&layout=compact&langs_count=7&theme=highcontrast"/>
