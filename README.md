@@ -25,7 +25,7 @@
   <a href = "mailto:thiagocdesv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-cezar-caetano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://wa.me/5561993571644" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a>
-  <a href="https://portifolio-chi-ten.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-25D366?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABmJLR0QA/wD/AP+gvaeTAAABeklEQVRIie2Vv2sUURSGb+fjKzZsW9XE4iCJCAKGCoK0iNrEIihrFwQUpQQ0chKLWj0M/gjKqqcCiqKRoJYWtKQlwRQUEFRLUhbRaG5W3tr5zvn3tpyy76t15ntz5w8+vmd8z/POfM5bDaba+j5ifvx5LhJzrpcrnY43Wdxo31+eivc26JZTS0HZlPA8FGg1+jUJ7V/0jKUW7VU/g6Nte7VUjfN/sXs4aPM/z+HHLOluKj3Ne7VUPp/fzmKj3Ne7VUJ7VU/g6Ntf6lUv6/Wc6O/9OMOaU6/N/sXs4aNf6mh4KwgZv4DgHb8h9Pp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVpPp/SdM3m1ugWmpm8DVp"></a>
+  <a href="https://portifolio-chi-ten.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-blueviolet"></a>
 
   ![Snake animation](https://github.com/thiago-cezar/thiago-cezar/blob/output/github-contribution-grid-snake.svg)
 </div>
