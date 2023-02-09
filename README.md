@@ -25,7 +25,7 @@
   <a href = "mailto:thiagocdesv@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thiago-cezar-caetano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://wa.me/5561993571644" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"target="_blank"></a>
-  <a href="https://portifolio-chi-ten.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-blueviolet"></a>
+  <a href="https://portifolio-chi-ten.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portf%C3%B3lio-blueviolet?style=for-the-badge&logo=Portf%C3%B3lio&logoColor=white"></a>
 
   ![Snake animation](https://github.com/thiago-cezar/thiago-cezar/blob/output/github-contribution-grid-snake.svg)
 </div>
