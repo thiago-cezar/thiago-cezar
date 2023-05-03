@@ -1,6 +1,6 @@
 ### <div align="center">Olá! Sou Thiago, fique a vontade em meu GitHub.</div>
 
-- 🌱 Estudando Python, Django
+- 🌱 Estudando PHP, MySQL
 - 😄 Pronomes: ele/dele
 
 <div align="left">
