@@ -1,7 +1,17 @@
 ### <div align="center">Olá! Sou Thiago, fique a vontade em meu GitHub.</div>
 
-- 🌱 Estudando PHP, MySQL
-- 😄 Pronomes: ele/dele
+Minhas competências incluem:
+
+- HTML5, CSS3, SASS, Python, PHP, JavaScript e TypeScript.
+- React, Hooks, State Management, Componentização e uso de bibliotecas de componentes.
+- Controle de versão com git, Lógica de Programação e Web Semântica.
+- Programação Orientada a Objetos e Funcional.
+- Metodologias Ágeis, Scrum, JIRA e Trello.
+- Github e Qualidade.
+- TDD com Jest e Noções de UX.
+- Node.js, Express, PostgreSQL e outros bancos de dados SQL.
+- Programação assíncrona e Construção de APIs RESTful.
+- TypeORM e Migrations.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/thiago-cezar-caetano/">
